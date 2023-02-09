@@ -1,3 +1,4 @@
+![ELYSIUM FINAL LOGO PNG FILE  (3)](https://user-images.githubusercontent.com/124893544/217824962-8c016d4e-9d62-49cb-90ed-e005c4361ad8.png)
 # Registering Tokens with Users
 
 When a user opens their MetaMask, they are shown a variety of assets, including tokens. By default, MetaMask auto-detects some major popular tokens and auto-displays them, but for most tokens, the user will need to add the token themselves.
